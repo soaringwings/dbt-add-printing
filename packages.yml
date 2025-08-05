@@ -1,0 +1,3 @@
+packages:
+  - package: fivetran/quickbooks
+    version: [">=0.20.0", "<0.21.0"] # we recommend using ranges to capture non-breaking changes automatically
