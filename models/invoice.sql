@@ -12,10 +12,10 @@ invoice_line as (
 
 final as (
     select
-        * from invoices
+        * from invoice
 
     left join invoice_line
-        on invoice.id = invoice_line.invoice_id;
+        on invoice.id = invoice_line.invoice_id
 )
 
 select * from final
