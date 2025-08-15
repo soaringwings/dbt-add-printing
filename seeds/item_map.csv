@@ -1,0 +1,46 @@
+item_id,,is_bag,is_box
+281,001 In Stock Paper Bags,TRUE,FALSE
+279,002 In Stock Non-woven Bags,TRUE,FALSE
+275,003 In Stock Laminated Non-woven Bags,TRUE,FALSE
+308,004 In Stock Laminated Woven Bags,TRUE,FALSE
+282,005 In Stock Canvas Bags,TRUE,FALSE
+277,006 In Stock Nylon Bags,TRUE,FALSE
+272,007 In Stock Thermal Bags,TRUE,FALSE
+271,008 In Stock Wine Bags,TRUE,FALSE
+287,009 In Stock Jute Bags,TRUE,FALSE
+478,01 In Stock 5oz Canvas Bags,TRUE,FALSE
+672,01 In Stock Kraft Paper Wine Bag,TRUE,FALSE
+469,01 In Stock Kraft SOS Grocery bag,TRUE,FALSE
+474,01 In Stock T-Shirt Style Non-woven Bags,TRUE,FALSE
+273,010 In Stock Apparels,FALSE,FALSE
+410,011 In Stock Promotion Item,FALSE,FALSE
+479,02 In Stock 8oz Canvas Bags,TRUE,FALSE
+280,02 In Stock Classic Kraft Paper Bags,TRUE,FALSE
+477,02 In Stock Die Cut Handles Non-woven Bags,TRUE,FALSE
+673,02 In Stock Matte Laminated Paper Wine Bag,TRUE,FALSE
+480,03 In Stock 10oz Canvas Bags,TRUE,FALSE
+274,03 In Stock Heavy Weight Kraft Paper Bags,TRUE,FALSE
+674,03 In Stock Non-woven Wine Bag,TRUE,FALSE
+475,03 In Stock Ultrasonic Sealing Non-woven Bags,TRUE,FALSE
+481,04 In Stock 12oz Canvas Bags,TRUE,FALSE
+675,04 In Stock Canvas Wine Bag,TRUE,FALSE
+270,04 In Stock Matte Laminated Paper Bags,TRUE,FALSE
+476,04 In Stock Regular Sewing Non-woven Bags,TRUE,FALSE
+659,05 CB Queen West Gift Bag,TRUE,FALSE
+483,05 In Stock Drawstring Canvas Bags,TRUE,FALSE
+482,05 In Stock Other Style Non-woven Bags,TRUE,FALSE
+278,100 Preprint In Stock,FALSE,FALSE
+268,101 Health Protection Products,FALSE,FALSE
+663,CB Queen West Wine Bag,TRUE,FALSE
+411,Cup,FALSE,FALSE
+283,Customized Products,FALSE,FALSE
+269,Masks,FALSE,FALSE
+284,Mattress Labels,FALSE,FALSE
+554,Organza Bag & Velvet Pouch,FALSE,FALSE
+412,Pen,FALSE,FALSE
+603,Plain Box,FALSE,TRUE
+285,Price Change,FALSE,FALSE
+276,Printing Products,FALSE,FALSE
+286,Services,FALSE,FALSE
+512,Tent,FALSE,FALSE
+398,Tissue Paper,FALSE,FALSE
