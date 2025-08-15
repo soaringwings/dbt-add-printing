@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: quickbooks
+    schema: splendid-strand-463617-k9.dbt_tyu_quickbooks_staging
+    tables:
+      - name: stg_quickbooks__item
