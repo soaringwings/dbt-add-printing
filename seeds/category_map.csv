@@ -1,4 +1,4 @@
-item_id,,is_bag,is_box
+parent_item_id,name,is_bag,is_box
 281,001 In Stock Paper Bags,TRUE,FALSE
 279,002 In Stock Non-woven Bags,TRUE,FALSE
 275,003 In Stock Laminated Non-woven Bags,TRUE,FALSE
