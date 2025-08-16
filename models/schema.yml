@@ -1,7 +1,15 @@
 version: 2
 
 sources:
-  - name: quickbooks
-    schema: splendid-strand-463617-k9.dbt_tyu_quickbooks_staging
+  - name: quickbooks_staging
+    schema: dbt_tyu_quickbooks_staging
     tables:
       - name: stg_quickbooks__item
+  - name: quickbooks
+    schema: dbt_tyu_quickbooks
+    tables:
+      - name: quickbooks__expenses_sales_enhanced
+  - name: dbt_tyu
+    schema: dbt_tyu
+    tables:
+      - name: dim_product

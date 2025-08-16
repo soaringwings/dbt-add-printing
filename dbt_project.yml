@@ -24,6 +24,20 @@ clean-targets:         # directories to be removed by `dbt clean`
   - "target"
   - "dbt_packages"
 
+seeds:
+  # +schema: dbt_tyu
+  my_new_project:
+    category_map:
+      +column_types:
+        parent_item_id: string
+        name: string
+        is_bag: boolean
+        is_box: boolean
+
+
+# item_id,,is_bag,is_box
+
+
 
 # Configuring models
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
