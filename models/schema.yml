@@ -9,6 +9,7 @@ sources:
     schema: dbt_tyu_quickbooks
     tables:
       - name: quickbooks__expenses_sales_enhanced
+      - name: quickbooks__profit_and_loss
   - name: dbt_tyu
     schema: dbt_tyu
     tables:

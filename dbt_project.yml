@@ -57,6 +57,7 @@ models:
     staging:
       +materialized: view
     
+    
 # vars:
 #   quickbooks_datebase: splendid-strand-463617-k9
 #   quickbooks_schema: quickbooks
